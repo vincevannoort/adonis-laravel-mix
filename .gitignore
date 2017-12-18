@@ -13,4 +13,11 @@ yarn.lock
 
 # The development sqlite file
 database/development.sqlite
+
+# Ignore public directory
+public
+
+# Ignore laravel mix file
+mix-manifest.json
+
 .DS_Store
